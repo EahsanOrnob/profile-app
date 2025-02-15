@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "eventType": "user.created",
+      "data": {
+        "id": 123,
+        "name": "John"
+      },
+      "timestamp": "2025-02-13T22:22:05.894Z"
+    },
+    {
+      "eventType": "user.created",
+      "data": {
+        "id": 123,
+        "name": "John"
+      },
+      "timestamp": "2025-02-15T03:00:17.652Z"
+    }
+  ]
+}
