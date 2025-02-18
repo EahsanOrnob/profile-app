@@ -1,6 +1,5 @@
 # Clone the Repository:
 git clone https://github.com/EahsanOrnob/profile-app.git
-cd profile-app.git
 
 # Install Dependencies:
 npm install
